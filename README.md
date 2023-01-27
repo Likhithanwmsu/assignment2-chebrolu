@@ -32,3 +32,9 @@ I like the sport Cricket because playing this sport helps me in **developing bot
   |        SPAIN        |There is an endless diversity of cuisine, wine, scenery, cities, and traditions. Every town is different. Spain resembles a country made up of a thousand separate nations. Every town has its own distinct cuisine, wine, pastries, history, and tourist attractions.|20 days|
   |      SWITZERLAND    |What makes Switzerland and its people so alluring is the combination of fantastic weather, breathtaking views of the Alps, and little but beautiful things like the greatest cheeses, chocolates, and timepieces.|1 month|
   |      INDONESIA      |Indonesia is one of the most well-liked locations in the world for surfing and yoga retreats and is home to a multitude of stunning islands and beaches, rich biodiversity, and a rich cultural past.|15 days|
+
+  ---
+  # Some funny quotes 
+  <The difference between stupidity and genius is that genius has its limits. - *ALBERT EINSTEIN*>
+  <It takes an awful lot of time to not write a book. - *DOUGLAS ADAMS*>
+  <Experience is the name everyone gives to their mistakes. - *OSCAR WILDE*>
