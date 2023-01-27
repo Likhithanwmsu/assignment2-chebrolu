@@ -35,6 +35,8 @@ I like the sport Cricket because playing this sport helps me in **developing bot
 
   ---
   # Some funny quotes 
-  <The difference between stupidity and genius is that genius has its limits. - *ALBERT EINSTEIN*>
-  <It takes an awful lot of time to not write a book. - *DOUGLAS ADAMS*>
-  <Experience is the name everyone gives to their mistakes. - *OSCAR WILDE*>
+  >The difference between stupidity and genius is that genius has its limits. - *ALBERT EINSTEIN*
+
+  >It takes an awful lot of time to not write a book. - *DOUGLAS ADAMS*
+  
+  >Experience is the name everyone gives to their mistakes. - *OSCAR WILDE*
