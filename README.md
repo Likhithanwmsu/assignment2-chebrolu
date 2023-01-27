@@ -40,3 +40,33 @@ I like the sport Cricket because playing this sport helps me in **developing bot
   >It takes an awful lot of time to not write a book. - *DOUGLAS ADAMS*
   
   >Experience is the name everyone gives to their mistakes. - *OSCAR WILDE*
+
+  ---
+
+  # Code Fencing 
+
+  >[PHP how to display folder and its content while also being able to download the content](https://stackoverflow.com/questions/70110560/php-how-to-display-folder-and-its-content-while-also-being-able-to-download-the)
+
+```
+
+<?php
+
+function getTwitterStatus($userid){
+$url = "https://api.twitter.com/1/statuses/user_timeline/$userid.xml?count=1&include_rts=1callback=?";
+
+$xml = simplexml_load_file($url) or die("could not connect");
+
+       foreach($xml->status as $status){
+       $text = $status->text;
+       }
+       echo $text;
+ }
+
+// USAGE
+getTwitterStatus("chriscoyier");
+
+?>
+
+```
+
+  [Link to CSS](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
